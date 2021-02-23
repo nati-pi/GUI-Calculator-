@@ -1,1 +1,1 @@
-web: gunicorn djangoprojectname.wsgi
+web: gunicorn Almanak.wsgi
